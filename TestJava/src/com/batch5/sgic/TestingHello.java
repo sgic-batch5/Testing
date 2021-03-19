@@ -31,9 +31,8 @@ public class TestingHello {
 		System.out.println("Umasuthan123");
 		
 		System.out.println("Hi anna");
-<<<<<<< HEAD
+
 		System.out.println("Hi");
-=======
 		System.out.println("VS code");
 		
 
@@ -41,7 +40,12 @@ public class TestingHello {
 
 		System.out.println("hi everyone");
 
->>>>>>> 5d6cafa47ac5459461802933ba26f761afc0a161
+
+		System.out.println("hi everyone");
+
+		
+		
+		
 		
 		
 

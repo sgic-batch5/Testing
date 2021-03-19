@@ -76,7 +76,7 @@ public class TestingHello {
 		System.out.println("Checking");
 
 		System.out.println("subjects");
-		System.out.println("ghgjhh");
+		System.out.println("don't type");
 
 		
 

@@ -93,14 +93,10 @@ public class TestingHello {
 		System.out.println("new checking");
 
 
-<<<<<<< HEAD
-		System.out.println("checked");
+	System.out.println("checked");
 
-=======
-		
->>>>>>> f75455175a5802332e981e59f465f1b639482dc0
-		
-		
+
+	System.out.println("new checking..");	
 		
 
 

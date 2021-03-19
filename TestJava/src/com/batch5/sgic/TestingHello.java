@@ -59,10 +59,17 @@ public class TestingHello {
 		System.out.println("student");
 		System.out.println("workshop");
 
+		System.out.println("correct me");
+
 		System.out.println("school");
 		
+
 		System.out.println("ghgjh");
 		System.out.println("friends");
+
+		System.out.println("books");
+
+
 	}
 
 }

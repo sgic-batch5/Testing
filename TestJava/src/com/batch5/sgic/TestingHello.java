@@ -30,6 +30,7 @@ public class TestingHello {
 		System.out.println("VS code");
 		
 		System.out.println("hi everyone");
+		System.out.println("Studio");
 
 		
 		

@@ -64,7 +64,7 @@ public class TestingHello {
 		System.out.println("school");
 		
 
-		System.out.println("ghgjh");
+		System.out.println("github");
 		System.out.println("friends");
 
 		System.out.println("books");

@@ -50,7 +50,7 @@ public class TestingHello {
 		
 		System.out.println("Teacher");
 		
-		
+		System.out.println("Read me ");
 		
 		System.out.println("First push");
 

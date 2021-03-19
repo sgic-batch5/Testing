@@ -76,13 +76,23 @@ public class TestingHello {
 		System.out.println("SGIC");
 
 		System.out.println("check whether working or not...");
+		System.out.println("first test...");
+		System.out.println("first test1111...");
+		
 		
 		System.out.println("SGIC");
 
 
+		System.out.println("dhaksha");
+		System.out.println("dhaksha11..");
+		System.out.println("dhaksha checking");
 
+<<<<<<< HEAD
 		System.out.println("checked");
 
+=======
+		
+>>>>>>> f75455175a5802332e981e59f465f1b639482dc0
 		
 		
 		

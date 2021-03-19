@@ -37,9 +37,13 @@ public class TestingHello {
 		System.out.println("Thilakshana123");
 
 		System.out.println("hi everyone");
+		System.out.println("Studio");
 
 		System.out.println("hello w3 school");
 
+		System.out.println("First push");
+
 		System.out.println("This is aji");
 	}
+
 }

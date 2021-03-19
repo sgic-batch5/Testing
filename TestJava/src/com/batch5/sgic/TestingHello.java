@@ -6,7 +6,7 @@ public class TestingHello {
 		System.out.println("development branch");
 		System.out.println("Risha Ahamadh");
 
-<<<<<<< HEAD
+
 		System.out.println("Roshany") ;
 		System.out.println("Badhusha") ;
 		System.out.println("Strong Beleiver") ;
@@ -14,9 +14,8 @@ public class TestingHello {
 
 		
 
-=======
 		System.out.println("Roshany");
->>>>>>> 241a4384ed48aa7aa5d52209dfe3d2c23f0e380f
+
 
 		System.out.println("sasikala");
 

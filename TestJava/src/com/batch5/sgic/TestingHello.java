@@ -57,6 +57,7 @@ public class TestingHello {
 
 		System.out.println("This is aji");
 		System.out.println("student");
+		System.out.println("workshop");
 	}
 
 }

@@ -34,7 +34,7 @@ public class TestingHello {
 
 		System.out.println("space");
 
-		System.out.println("God");
+		System.out.println("God bless you");
 		System.out.println("VS code");
 
 		System.out.println("Thara");

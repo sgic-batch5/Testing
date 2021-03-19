@@ -76,6 +76,9 @@ public class TestingHello {
 		System.out.println("SGIC");
 
 		System.out.println("check whether working or not...");
+		System.out.println("first test...");
+		System.out.println("first test1111...");
+		
 		
 
 

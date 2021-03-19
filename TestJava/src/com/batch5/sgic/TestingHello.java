@@ -47,7 +47,7 @@ public class TestingHello {
 
 		System.out.println("hi everyone");
 
-		
+		System.out.println("be kind ");
 		System.out.println("Teacher");
 		
 		System.out.println("Read me ");

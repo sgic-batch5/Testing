@@ -33,55 +33,34 @@ public class TestingHello {
 		System.out.println("Hi");
 
 		System.out.println("space");
-
 		System.out.println("God bless you");
 		System.out.println("VS code");
-
 		System.out.println("Thara");
-
 		System.out.println("hi everyone");
 		System.out.println("Studio");
-
 		System.out.println("hello w3 school");
-
 		System.out.println("Mathematics ");
 		System.out.println("hi everyone");
-
 		System.out.println("be kind ");
 		System.out.println("Teacher");
-		
 		System.out.println("Read me ");
-		
 		System.out.println("First push");
 		System.out.println("Thank you");
-
 		System.out.println("This is aji");
 		System.out.println("student");
 		System.out.println("workshop");
-
 		System.out.println("correct me");
-
 		System.out.println("school");
 		System.out.println("code");
-
 		System.out.println("github");
 		System.out.println("friends");
-
 		System.out.println("books");
-
-		System.out.println("covid19");
-
+		System.out.println("covid19"):
 		System.out.println("book12");
-
 		System.out.println("Checking");
-
 		System.out.println("subjects");
-
 		System.out.println("don't type");
-
-		
 		System.out.println("shopping");
-
 		System.out.println("ghgjhh");
 
 

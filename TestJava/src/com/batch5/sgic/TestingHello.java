@@ -32,7 +32,7 @@ public class TestingHello {
 
 		System.out.println("Hi");
 
-
+		System.out.println("space");
 
  
 		System.out.println("VS code");
@@ -44,7 +44,7 @@ public class TestingHello {
 
 		System.out.println("hello w3 school");
 
-
+		System.out.println("Mathematics ");
 		System.out.println("hi everyone");
 
 		System.out.println("be kind ");
@@ -53,7 +53,7 @@ public class TestingHello {
 		System.out.println("Read me ");
 		
 		System.out.println("First push");
-
+		System.out.println("Thank you");
 
 		System.out.println("This is aji");
 		System.out.println("student");
@@ -62,7 +62,7 @@ public class TestingHello {
 		System.out.println("correct me");
 
 		System.out.println("school");
-		
+		System.out.println("code");
 
 		System.out.println("github");
 		System.out.println("friends");
@@ -74,6 +74,12 @@ public class TestingHello {
 		System.out.println("book12");
 
 		System.out.println("Checking");
+
+		System.out.println("subjects");
+		System.out.println("ghgjhh");
+
+		
+
 
 		
 

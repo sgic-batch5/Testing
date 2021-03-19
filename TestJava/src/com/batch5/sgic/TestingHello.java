@@ -44,6 +44,7 @@ public class TestingHello {
 		System.out.println("First push");
 
 		System.out.println("This is aji");
+		System.out.println("student");
 	}
 
 }

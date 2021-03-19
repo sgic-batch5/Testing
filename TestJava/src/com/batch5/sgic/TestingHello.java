@@ -44,16 +44,16 @@ public class TestingHello {
 
 		System.out.println("hello w3 school");
 
-
+		System.out.println("Mathematics ");
 		System.out.println("hi everyone");
 
-		
+		System.out.println("be kind ");
 		System.out.println("Teacher");
 		
 		System.out.println("Read me ");
 		
 		System.out.println("First push");
-
+		System.out.println("Thank you");
 
 		System.out.println("This is aji");
 		System.out.println("student");
@@ -62,7 +62,7 @@ public class TestingHello {
 		System.out.println("correct me");
 
 		System.out.println("school");
-		
+		System.out.println("code");
 
 		System.out.println("github");
 		System.out.println("friends");

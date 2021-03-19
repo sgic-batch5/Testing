@@ -37,7 +37,7 @@ public class TestingHello {
  
 		System.out.println("VS code");
 
-		System.out.println("Thilakshana123");
+		System.out.println("Thara");
 
 		System.out.println("hi everyone");
 		System.out.println("Studio");
@@ -48,7 +48,7 @@ public class TestingHello {
 		System.out.println("hi everyone");
 
 		
-		
+		System.out.println("Teacher");
 		
 		
 		

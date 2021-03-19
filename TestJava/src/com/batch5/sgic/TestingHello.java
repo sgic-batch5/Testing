@@ -4,14 +4,10 @@ public class TestingHello {
 	public static void main(String args[]) {
 		System.out.println("welcome");
 		System.out.println("development branch");
+		System.out.println("Risha Ahamadh");
 
 		System.out.println("Roshany") ;
 		
-		
-
-		
-
-
 		System.out.println("sasikala");
 
 		System.out.println("Prgs");
@@ -21,6 +17,9 @@ public class TestingHello {
 		System.out.println("Theepika");
 
 		System.out.println("Roshany");
+
+		System.out.println("I am from kilinochchi");
+
 		
 		System.out.println("Umasuthan");
 
@@ -33,6 +32,8 @@ public class TestingHello {
 		System.out.println("Hi anna");
 
 		System.out.println("Hi");
+
+
 		System.out.println("VS code");
 		
 
@@ -40,10 +41,27 @@ public class TestingHello {
 
 		System.out.println("hi everyone");
 
-		System.out.println("First push");
-		
 		
 
+		System.out.println("hello w3 school");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println("First push");
+
+
+
 	}
+
 }
+
+
 
